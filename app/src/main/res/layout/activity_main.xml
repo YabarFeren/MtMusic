@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="35dp"
+        android:background="@color/plomo_juerte">
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="20"
+            app:srcCompat="@drawable/mtlogoblanco" />
+
+        <Button
+            style="@style/ButtonsMain"
+            android:id="@+id/btnSalsa"
+            android:text="Salsa"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            />
+        <Button
+            android:id="@+id/btnBachata"
+            style="@style/ButtonsMain"
+            android:text="Bachata"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"/>
+        <Button
+            android:id="@+id/btnReggeaton"
+            style="@style/ButtonsMain"
+            android:text="Reggeaton"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"/>
+        <Button
+            style="@style/ButtonsMain"
+            android:id="@+id/btnPop"
+            android:text="Pop"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"/>
+        <Button
+            style="@style/ButtonsMain"
+            android:id="@+id/btnHuayno"
+            android:text="Huayno"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"/>
+        <Button
+            style="@style/ButtonsMain"
+            android:id="@+id/btnCumbia"
+            android:text="Cumbia"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            />
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

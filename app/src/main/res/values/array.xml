@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="salsa">
+        <item>En Peligro de Extincion</item>
+        <item>Gotas de Lluvia</item>
+        <item>Me vas a Extrañar</item>
+        <item>Probablemente</item>
+        <item>Si te Marchas</item>
+    </string-array>
+    <string-array name="bachata">
+        <item>Deja Vu</item>
+        <item>Me Puedo Matar</item>
+        <item>Poquito a Poquito</item>
+        <item>Soy el Mismo</item>
+        <item>Un Beso</item>
+    </string-array>
+    <string-array name="pop">
+        <item>Bad Guy</item>
+        <item>Blinding Light</item>
+        <item>Fireflies</item>
+        <item>I Took a Phill in Ibiza</item>
+        <item>Memories</item>
+    </string-array>
+    <string-array name="reggeaton">
+        <item>Buscandote</item>
+        <item>Desesperados</item>
+        <item>La Santa</item>
+        <item>Taboo</item>
+        <item>Una Vaina Loca</item>
+    </string-array>
+    <string-array name="huayno">
+        <item>Las Ilusiones del Alma</item>
+        <item>No Sufras Corazon</item>
+        <item>Perdoname</item>
+        <item>Pio Pio</item>
+        <item>Que Linda Flor</item>
+    </string-array>
+    <string-array name="cumbia">
+        <item>El Ritmo de mi Corazon</item>
+        <item>Largate</item>
+        <item>Necesito un Amor</item>
+        <item>Paloma Ajena</item>
+        <item>Que Paso</item>
+    </string-array>
+
+
+    <string-array name="vacio">
+
+    </string-array>
+
+    <string-array name="salsita">
+        <item>en_peligro_de_extincion</item>
+        <item>gotas_de_lluvia</item>
+        <item>me_vas_a_extranar</item>
+        <item>probablemente</item>
+        <item>si_te_marchas</item>
+    </string-array>
+    <string-array name="bachatitas">
+        <item>deja_vu</item>
+        <item>me_puedo_matar</item>
+        <item>poquito_a_poquito</item>
+        <item>soy_el_mismo</item>
+        <item>un_beso</item>
+    </string-array>
+    <string-array name="popcitos">
+        <item>bad_guy</item>
+        <item>blinding_light</item>
+        <item>fireflies</item>
+        <item>i_took_a_phill_in_ibiza</item>
+        <item>memories</item>
+    </string-array>
+    <string-array name="reggeatoncitos">
+        <item>buscandote</item>
+        <item>desesperados</item>
+        <item>la_santa</item>
+        <item>taboo</item>
+        <item>una_vaina_loca</item>
+    </string-array>
+    <string-array name="huaynitos">
+        <item>las_ilusiones_del_alama</item>
+        <item>no_sufras_corazon</item>
+        <item>perdoname</item>
+        <item>pio_pio</item>
+        <item>que_linda_flor</item>
+    </string-array>
+    <string-array name="cumbion">
+        <item>el_ritmo_de_mi_corazon</item>
+        <item>largate</item>
+        <item>necesitounamor</item>
+        <item>paloma_ajena</item>
+        <item>que_paso</item>
+    </string-array>
+
+    <string-array name="imasalsa">
+        <item>bembe_farik</item>
+        <item>grupo_niche</item>
+        <item>nsamble</item>
+        <item>daniela_darcourt</item>
+        <item>los_adolescentes</item>
+    </string-array>
+    <string-array name="imabachata">
+        <item>princeroyce_shakira</item>
+        <item>bachata_heightz</item>
+        <item>henry_santos</item>
+        <item>prince_royce</item>
+        <item>aventura</item>
+    </string-array>
+    <string-array name="imareggeaton">
+        <item>mike_bahia</item>
+        <item>rauw_chencho</item>
+        <item>bad_bonny_daddy_yankee</item>
+        <item>don_omar</item>
+        <item>fuego_potroalvarez</item>
+    </string-array>
+    <string-array name="imapop">
+        <item>billie_eilish</item>
+        <item>the_weeknd</item>
+        <item>owl_city</item>
+        <item>mike_posner</item>
+        <item>maroon</item>
+    </string-array>
+    <string-array name="imahuayno">
+        <item>los_campesinos</item>
+        <item>alicia_delgado</item>
+        <item>sonia_morales</item>
+        <item>eusebio_grados</item>
+        <item>silverio_urbina</item>
+    </string-array>
+    <string-array name="imacumbias">
+        <item>grupo5</item>
+        <item>hnos_yaipen</item>
+        <item>lobo_sociedad</item>
+        <item>agua_marina</item>
+        <item>papillon</item>
+    </string-array>
+
+    <string-array name="dessalsa">
+        <item>"Los Adolescentes orquesta no se han detenido desde que se fundo en 1996 y ha pasado por situaciones similares a las de hoy en dia , luego de su segunda produccion Persona Ideal"</item>
+        <item>"El Grupo Niche es una agrupación musical colombiana de salsa fundada en 1979 en Bogotá, por Jairo Varela y Alexis Lozano.En el año 1983 la agrupación se radicó en Cali. Varela fue director del grupo hasta su muerte en 2012, así como su productor, compositor y vocalista."</item>
+        <item>"La orquesta N\'Samble nació en Barrios Altos, cercado de Lima. El nombre está inspirado en el tema 'Maria Matraca' de Habana Ensamble, que solían tocar en sus inicios. Los integrantes iniciales pasaron por agrupaciones como Camaguey"</item>
+        <item>"Daniela Alejandra Darcourt Escurra es una cantante, compositora y bailarina 	peruana. En sus inicios musicales, participó en distintos concursos de talentos. 	Ingresó a la vez a Son Tentación, una orquesta peruana de salsa en la cual 	trabajó dos años"</item>
+        <item>"Los Adolescentes orquesta no se han detenido desde que se fundo en 1996 y ha pasado por situaciones similares a las de hoy en dia , luego de su segunda produccion Persona Ideal."</item>
+    </string-array>
+    <string-array name="desbachata">
+        <item>"«Deja Vu» es una canción del cantante estadounidense de origen dominicano Prince Royce, y la cantante colombiana Shakira. La canción fue lanzada el 24 de febrero de 2017 como el cuarto sencillo de los álbumes de Prince Royce Five y de Shakira "</item>
+        <item>"Bachata Heightz fusiona el ritmo pegajoso de la Isla República Dominicana, mezclada con el hip-hop, R y B, y el rock, agregándoles el sonido único del grupo. Se siente una gran influencia de sonidos tal como de: Anthony Santos, Raulín Rodríguez y Luis Vargas entre otros artistas reconocidos."</item>
+        <item>"Henry Santos es un artista dominicano. Mejor conocido por su paso como cantante y compositor en el grupo de bachata Aventura, Henry Santos es un vocalista dominicano de la ciudad de Nueva York, que hizo su debut como solista en 2011"</item>
+        <item>"Geoffrey Royce Rojas, conocido como Prince Royce, es un cantante, compositor y productor discográfico estadounidense de origen dominicano. "</item>
+        <item>"Aventura es una agrupación americana de bachata fundada por Anthony "Romeo" Santos, Lenny Santos, Max Agende Santos y Henry Santos. Son considerados como uno de los grupos latinos más influyentes de todos los tiempos"</item>
+    </string-array>
+    <string-array name="desreggeaton">
+        <item>"Michael Egred Mejía, más conocido como Mike Bahía, es un cantautor, cantante y compositor colombiano. Su música incluye géneros como el reguetón, el pop, y el latín dance."</item>
+        <item>"Raúl Alejandro Ocasio Ruiz, conocido por su nombre artístico Rauw Alejandro, es un cantautor, bailarín y productor discográfico puertorriqueño."</item>
+        <item>"Benito Antonio Martínez Ocasio, más conocido como Bad Bunny, es un rapero y compositor puertorriqueño. Su estilo de música es generalmente definido como trap latino y reguetón, pero también incorporó otros géneros como rock, kizomba y soul."</item>
+        <item>"William Omar Landrón Rivera, conocido artísticamente como Don Omar, es un cantante, compositor, piloto de automóviles, productor musical y actor puertorriqueño.    Es conocido por ser uno de los músicos más destacados del Reguetón a nivel mundial."</item>
+        <item>"Miguel Ángel Durán, Jr.,  más conocido artísticamente como Fuego es un cantante y compositor estadounidense de ascendencia dominicana. Es fundador de su sello discográfico Fireboy Music."</item>
+    </string-array>
+    <string-array name="despop">
+        <item>"Billie Eilish Pirate Baird O'Connell es una cantante y compositora estadounidense. Adquirió fama como artista cuando tenía 13 años, a raíz del sencillo «Ocean Eyes» que se publicó en 2015 en SoundCloud"</item>
+        <item>"Abel Makkonen Tesfaye, conocido por su nombre artístico The Weeknd, es un cantante, compositor y productor canadiense, conocido por éxitos como «Save Your Tears», «Blinding Lights», «The Hills», «Starboy» entre otros."</item>
+        <item>"Owl City es un proyecto musical estadounidense de synth pop y música electrónica creado por Adam Young. Young mezclaba música en el sótano de la casa de sus padres en Owatonna, Minnesota, como resultado de su insomnio."</item>
+        <item>"Mike Posner, es un cantautor y productor estadounidense. Posner publicó su álbum debut, 31 Minutes to Takeoff, el 10 de agosto de 2010. El álbum incluye el sencillo "Cooler Than Me", que alcanzó el top 10 de la lista Billboard Hot 100."</item>
+        <item>"Maroon 5 es una banda musical de pop rock estadounidense. Desde su debut en 2001, la banda ha vendido más de 30 millones de álbumes y 48 millones de sencillos mundialmente."</item>
+    </string-array>
+    <string-array name="deshuayno">
+        <item>"Son considerados patriarcas de nuestra música andina han llevado su canto por casi todo el Perú y diversos países como España, Italia, EE. UU, entre otros. Pertenecen a la época de oro de nuestro folclor, eran los tiempos de los pioneros ya que tuvieron que luchar duro y parejo, para abrir camino a nuestra música andina"</item>
+        <item>"Alicia Delgado,  fue una cantante folclórica peruana, quien incursionó en el huayno con arpa, al estilo norte chico. Fue apodada como "la princesa del folklore peruano" al grabar 12 álbumes de su estilo."</item>
+        <item>"Sonia Morales es una de las artistas folcklóricas más prestigiosas del Perú, teniendo sus raíces en lo más profundo del país, ha sabido ganarse a su público no sólo en lo sectores más populares sino también en todas clases sociales ya que su música toca temas como el desengaño y el amor apasionado."</item>
+        <item>"Eusebio "Chato" Grados Robles,  fue un popular cantante de música andina de Perú, principalmente de huaylash."</item>
+        <item>"Nació una fresca mañana de un 24 de julio en la apacible provincia de San Marcos, en el norteño departamento de Cajamarca - Perú.Su vínculo con la música se remonta a su infancia, donde empezó a aprender a tocar el violín y sorprendió a quienes lo escuchaban por su talento precoz para componer e interpretar canciones completas a tan corta edad."</item>
+    </string-array>
+    <string-array name="descumbia">
+        <item>"Grupo 5 es una banda musical peruana de cumbia formada en la ciudad de Monsefú. Sus líderes, actualmente, son los hermanos Yaipén Quesquén: Elmer, Andy y Christian, hijos de Elmer Yaipén Uypán, cofundador junto a su hermano Víctor."</item>
+        <item>"Los Hermanos Yaipén es una orquesta musical de cumbia peruana proveniente de Monsefú, Chiclayo, formado principalmente por los hermanos Walter y Javier Yaipén Uypan en el año 2000."</item>
+        <item>"Jose Luis Arroyo, más conocido como 'El Lobo', nació en Vegeta Huacho y desarrolló su carrera en Tingo María, donde formó la agrupación Sociedad Privada. Sus primeros éxitos fueron 'Luciérnaga', 'Muchacho alegre', 'Te he visto llorar', los cuales les permitió llegar a Lima."</item>
+        <item>"Agua Marina es una agrupación de cumbia peruana fundada en la ciudad de Sechura, en el departamento de Piura, en agosto de 1976. Es considerada, junto con Armonía 10 y el Grupo 5, pieza importante en el afianzamiento de la cumbia peruana como género musical."</item>
+        <item>"Orquesta peruana de gran éxito, en el genero de la cumbia. Grandes éxitos como el Baile del Gusano y Que Paso posicionaron al grupo en lo mas alto del ranking escuchado del Peru "</item>
+    </string-array>
+
+    <!--
+        <string-array name="dessalsa">
+            <item>hola</item>
+            <item>hola1</item>
+            <item>hola2</item>
+            <item>hola3</item>
+            <item>hola4</item>
+        </string-array>
+
+        <string-array name="desbachata">
+            <item>hola</item>
+            <item>hola1</item>
+            <item>hola2</item>
+            <item>hola3</item>
+            <item>hola4</item>
+        </string-array>
+
+        <string-array name="desreggeaton">
+            <item>hola</item>
+            <item>hola1</item>
+            <item>hola2</item>
+            <item>hola3</item>
+            <item>hola4</item>
+        </string-array>
+
+        <string-array name="despop">
+            <item>hola</item>
+            <item>hola1</item>
+            <item>hola2</item>
+            <item>hola3</item>
+            <item>hola4</item>
+        </string-array>
+
+        <string-array name="deshuayno">
+            <item>hola</item>
+            <item>hola1</item>
+            <item>hola2</item>
+            <item>hola3</item>
+            <item>hola4</item>
+        </string-array>
+
+        <string-array name="descumbia">
+            <item>hola</item>
+            <item>hola1</item>
+            <item>hola2</item>
+            <item>hola3</item>
+            <item>hola4</item>
+        </string-array>
+   !-->
+
+   </resources>
